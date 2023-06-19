@@ -3,6 +3,7 @@
 <h1 ><b>Revert</b></h1>
 
 Revert is an open-source developer first Unified API to build customer-facing integrations <b>10x faster.</b>
-
 <br/>
-Built in 🇮🇳 🇺🇸 for the 🌐
+--------------
+Sign up for access & get your API keys: https://revert.dev. Built in 🇮🇳 🇺🇸 for the 🌐
+
