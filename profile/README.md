@@ -1,9 +1,12 @@
 <p>
-<img width="100" style="border-radius:75px;" src="https://res.cloudinary.com/dfcnic8wq/image/upload/v1673932396/Revert/Revert_logo_x5ysgh.png"/>
+<img width="100%" style="border-radius:75px;" src="https://res.cloudinary.com/dfcnic8wq/image/upload/v1687937777/Revert/CTA-navigation-1_mrxxep.png"/>
 <h1 ><b>Revert</b></h1>
 
-Revert is an open-source developer first Unified API to build customer-facing integrations <b>10x faster.</b>
+**Revert** is an open-source unified API to build customer-facing integrations <b>10x faster.</b>
 <br/>
 
-Sign up for access & get your API keys: https://revert.dev <br/><br/> Built in 🇮🇳 🇺🇸 for the 🌐
+**Docs** • https://docs.revert.dev
+
+**Sign up for access & get your API keys** • https://revert.dev <br/><br/> Built in 🇮🇳 🇺🇸 for the 🌐
+
 
