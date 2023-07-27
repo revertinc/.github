@@ -1,5 +1,5 @@
 <p>
-<img width="100%" style="border-radius:75px;" src="https://res.cloudinary.com/dfcnic8wq/image/upload/v1687937777/Revert/CTA-navigation-1_mrxxep.png"/>
+<img width="100%" style="border-radius:75px;" src="https://res.cloudinary.com/dfcnic8wq/image/upload/v1689828148/Revert/github_o27jvk.png"/> 
 <h1 ><b>Revert</b></h1>
 
 **Revert** is an open-source unified API to build customer-facing integrations <b>10x faster.</b>
