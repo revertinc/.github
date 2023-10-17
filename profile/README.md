@@ -1,7 +1,7 @@
 <p>
 <h1 ><b>Revert</b></h1>
 
-**Revert** is an open-source unified API to build customer-facing integrations <b>10x faster.</b>
+**Revert** is an open-source unified API to build product integrations <b>10x faster.</b>
 <br/>
 
 **Docs** • https://docs.revert.dev
